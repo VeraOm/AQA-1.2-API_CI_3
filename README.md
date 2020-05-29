@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x9x2j6711m1npqg0?svg=true)](https://ci.appveyor.com/project/VeraOm/aqa-1-2-api-ci-3)
